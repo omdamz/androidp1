@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Practica1</string>
+    <string name="saludo">Welcome</string>
+    <string name="btn_msg">Enter</string>
 </resources>
